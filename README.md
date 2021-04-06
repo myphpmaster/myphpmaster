@@ -2,7 +2,7 @@
 - 👀 I’m interested in website development.
 - 🌱 I’m currently learning javascript fullstack framework.
 - 💞️ I’m looking to collaborate on any virtual project.
-- 📫 How to reach me by email me to myphpmaster [at] gmail.com
+- 📫 How to reach me? Email to myphpmaster [at] gmail.com
 
 <!---
 myphpmaster/myphpmaster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
